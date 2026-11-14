@@ -1,4 +1,4 @@
-# SerialScope Pro
+# SerialScope
 
 **Interactive UART Telemetry, Real-Time DSP Filter & Hardware Control Tool**
 
@@ -12,7 +12,7 @@ While debugging projects, I kept running into two annoying problems with standar
 1. **Noisy sensor data:** Raw ADC readings often have high-frequency noise, and testing a simple low-pass filter usually meant changing the C/C++ code and reflashing the microcontroller over and over.
 2. **Tuning parameters on the fly:** When testing a PID controller or changing a target setpoint, I wanted a clean way to slide a value on my PC and immediately see the system's step response on the graph without stopping the stream.
 
-I built **SerialScope Pro** in Python to solve both of these problems in a single desktop tool. Even if you don't have a microcontroller plugged in right now, it includes a built-in **Virtual MCU Simulation Mode** so you can test the DSP filtering and control features right away.
+I built **SerialScope** in Python to solve both of these problems in a single desktop tool. Even if you don't have a microcontroller plugged in right now, it includes a built-in **Virtual MCU Simulation Mode** so you can test the DSP filtering and control features right away.
 
 ---
 
