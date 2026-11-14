@@ -78,6 +78,13 @@ When you adjust the sliders or click macro buttons in the app, it sends strings 
 
 ---
 
+## Author & Developer
+**Atahan Güney** — Electrical & Electronics Engineering Student  
+Focus areas: Embedded Systems (ESP32, RP2040), Digital Signal Processing (DSP), Computer Vision, and Electromagnetic Simulation.
+- GitHub: [@atahanguney](https://github.com/atahanguney)
+- LinkedIn: [Atahan Güney](https://www.linkedin.com/in/atahan-g%C3%BCney)
+
+---
 ## License
 
 This project is open-source under the MIT License. Feel free to use, modify, or adapt it for your own embedded systems labs and student projects!
