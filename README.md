@@ -30,7 +30,7 @@ I built **SerialScope Pro** in Python to solve both of these problems in a singl
 
 ### 1. Clone or Download the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/SerialScope-Pro.git
+git clone https://github.com/atahangüney/SerialScope-Pro.git
 cd SerialScope-Pro
 ```
 
